@@ -1,0 +1,49 @@
+,country_name_home,country_name_away,id_int_home,id_int_away,goals_home,goals_away
+0,Russia,Saudi Arabia,3448,3807,7.0,6.0
+1,Egypt,Uruguay,3672,3449,6.0,6.0
+2,Morocco,Iran,3575,3582,5.0,3.0
+3,Portugal,Spain,3300,3375,7.0,6.0
+4,France,Australia,3377,3433,6.0,5.0
+5,Argentina,Iceland,3437,3574,6.0,6.0
+6,Peru,Denmark,3584,3436,3.0,8.0
+7,Croatia,Nigeria,3556,3444,6.0,5.0
+8,Costa Rica,Serbia,8497,3438,6.0,5.0
+9,Germany,Mexico,3262,6303,2.0,7.0
+10,Brazil,Switzerland,3439,3384,7.0,5.0
+11,Sweden,Korea Republic,3557,64,6.0,6.0
+12,Belgium,Panama,3382,3577,6.0,5.0
+13,Tunisia,England,3670,3299,6.0,6.0
+14,Colombia,Japan,3816,3435,6.0,6.0
+15,Poland,Senegal,3442,3499,7.0,6.0
+16,Russia,Egypt,3448,3672,8.0,7.0
+17,Portugal,Morocco,3300,3575,6.0,4.0
+18,Uruguay,Saudi Arabia,3449,3807,7.0,7.0
+19,Iran,Spain,3582,3375,6.0,6.0
+20,Denmark,Australia,3436,3433,6.0,6.0
+21,France,Peru,3377,3584,4.0,9.0
+22,Argentina,Croatia,3437,3556,6.0,5.0
+23,Brazil,Costa Rica,3439,8497,6.0,5.0
+24,Nigeria,Iceland,3444,3574,7.0,6.0
+25,Serbia,Switzerland,3438,3384,6.0,6.0
+26,Belgium,Tunisia,3382,3670,6.0,5.0
+27,Korea Republic,Mexico,64,6303,6.0,6.0
+28,Germany,Sweden,3262,3557,6.0,5.0
+29,England,Panama,3299,3577,7.0,6.0
+30,Japan,Senegal,3435,3499,6.0,5.0
+31,Poland,Colombia,3442,3816,7.0,5.0
+32,Uruguay,Russia,3449,3448,6.0,6.0
+33,Saudi Arabia,Egypt,3807,3672,8.0,6.0
+34,Iran,Portugal,3582,3300,6.0,5.0
+35,Spain,Morocco,3375,3575,6.0,6.0
+36,Denmark,France,3436,3377,7.0,5.0
+37,Australia,Peru,3433,3584,4.0,9.0
+38,Nigeria,Argentina,3444,3437,6.0,6.0
+39,Iceland,Croatia,3574,3556,7.0,5.0
+40,Mexico,Sweden,6303,3557,6.0,6.0
+41,Korea Republic,Germany,64,3262,6.0,5.0
+42,Serbia,Brazil,3438,3439,6.0,4.0
+43,Switzerland,Costa Rica,3384,8497,6.0,5.0
+44,Japan,Poland,3435,3442,6.0,5.0
+45,Senegal,Colombia,3499,3816,1.0,2.0
+46,Panama,Tunisia,3577,3670,1.0,2.0
+47,England,Belgium,3299,3382,1.0,2.0

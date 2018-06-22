@@ -1,0 +1,246 @@
+,country_name_home,id_int_home
+0,Korea Republic,64
+1378,German Democratic Republic,17201
+1562,England B,52786
+1780,Soviet Union,17203
+2088,Czechoslovakia,17202
+3344,Estonia U17,26032
+3804,Slovakia U21,24965
+4868,Yugoslavia,17335
+4876,Morocco U23,34903
+5373,Micronesia,19759
+5657,Japan U23,28642
+5662,Belarus U23,33541
+5709,Romania B,40487
+6930,Thailand U23,40464
+6934,Oman U23,46156
+7013,Germany U21,3817
+7097,Serbia and Montenegro,23380
+7628,Al-Salmiya Sports Club,12916
+10041,Netherlands Antilles,17756
+10253,Russia U21,11945
+10682,Kiribati,19756
+10914,Russia B,33397
+11527,Saint-Martin,38280
+12124,Turkey U20,22586
+12844,Northern Mariana Islands,28719
+13227,Tajikistan U21,35375
+13315,Bonaire,41853
+13332,Sri Lanka,15358
+13340,Brunei Darussalam,14233
+13342,Pakistan,15352
+13358,Bahamas,15918
+13370,Turks and Caicos Islands,17764
+13414,Cayman Islands,17751
+13441,Montserrat,17754
+13663,Cook Islands,17752
+13694,American Samoa,17746
+13857,Somalia,13974
+13868,Eritrea,13953
+14035,Guam,17753
+14118,Chad,13978
+14187,British Virgin Islands,17750
+14190,Anguilla,17748
+14198,Aruba,17749
+14203,Sint Maarten,37561
+14353,Seychelles,3562
+14376,Rwanda,3855
+14377,United States Virgin Islands,17747
+14404,Lesotho,13962
+14408,Samoa,15235
+14410,Swaziland,13675
+14411,Liberia,9172
+14560,Ethiopia,13941
+14571,Angola,3585
+14582,Equatorial Guinea,13485
+14616,Bangladesh,15033
+14632,Guatemala,13342
+14673,Cuba,3808
+14757,Puerto Rico,17759
+14825,Mozambique,5129
+14874,Suriname,15359
+14918,Belize,15919
+14947,São Tomé and Príncipe,15236
+14950,Djibouti,16427
+14983,Haiti,14161
+14999,Madagascar,14635
+15011,Mauritius,14239
+15027,South Sudan,33192
+15049,Guyana,15736
+15106,Sudan,13313
+15116,Malawi,8988
+15122,Sierra Leone,6187
+15129,Burundi,13943
+15136,Niger,14163
+15139,Guinea-Bissau,3701
+15141,Central African Republic,12933
+15148,Benin,3955
+15170,Papua New Guinea,15233
+15220,Saint Vincent and the Grenadines,17762
+15221,Saint Lucia,17761
+15222,Dominica,16033
+15226,French Guiana,19753
+15234,El Salvador,13951
+15241,Uzbekistan U23,33815
+15251,Russia U20,21670
+15360,Uzbekistan,3563
+15376,Syria,13674
+15381,San Marino,10521
+15382,Bolivia,5233
+15399,Chile,3700
+15403,Mauritania,14238
+15405,Mali,3674
+15408,Belarus,3450
+15409,Bosnia-Herzegovina,3446
+15411,Libya,6602
+15413,Cape Verde,4311
+15415,Andorra,10533
+15417,Guinea,3856
+15421,Cameroon,3434
+15426,Lithuania,3851
+15432,Costa Rica,8497
+15434,Czech Republic,3445
+15437,Kazakhstan,9110
+15445,Moldova,6090
+15455,Latvia,3555
+15475,Brazil,3439
+15480,Paraguay,3581
+15481,Ecuador,5750
+15482,Grenada,14175
+15483,Bermuda,15735
+15484,Iceland,3574
+15487,Croatia,3556
+15489,Panama,3577
+15506,Honduras,3590
+15508,Democratic Republic of the Congo,3854
+15509,Comoros,16430
+15516,Macedonia,5148
+15517,New Zealand,9171
+15523,Ghana,3441
+15525,Republic of the Congo,3702
+15528,Venezuela,3504
+15534,Italy,3376
+15535,Tajikistan,13975
+15537,Turkmenistan,14248
+15538,Republic of Ireland,3509
+15542,Nepal,15350
+15544,Vietnam,8778
+15545,India,13957
+15546,Singapore,15357
+15549,Bhutan,15920
+15551,Hong Kong,15977
+15556,Cambodia,16038
+15558,Palestine,17758
+15565,Australia,3433
+15571,Laos,16431
+15578,East Timor,17757
+15584,Tonga,16435
+15585,Vanuatu,15238
+15588,New Caledonia,17755
+15591,Tuvalu,19768
+15593,Fiji,13955
+15594,Solomon Islands,15740
+15600,United Arab Emirates,5147
+15602,Estonia,6133
+15604,Indonesia,13958
+15609,South Korea,3589
+15613,Liechtenstein,5673
+15615,South Africa,3806
+15617,Malaysia,15738
+15618,Malta,3587
+15620,Macau,16432
+15627,Slovakia,3503
+15632,Turkey,3381
+15634,The Gambia,6186
+15635,Serbia,3438
+15636,Austria,3383
+15638,Scotland,3380
+15639,Japan,3435
+15640,Argentina,3437
+15644,Uruguay,3449
+15647,Greece,3378
+15649,France,3377
+15651,Portugal,3300
+15652,Norway,3440
+15653,Azerbaijan,8605
+15654,Cyprus,3668
+15659,Northern Ireland,5674
+15660,Tahiti,17763
+15661,Botswana,15229
+15663,Kosovo,53982
+15664,Zimbabwe,3583
+15667,Canada,3510
+15668,Qatar,14162
+15670,Zambia,3703
+15671,Togo,3815
+15673,Guadeloupe,19755
+15674,Israel,5547
+15675,Gibraltar,37574
+15676,Dominican Republic,15232
+15677,Faroe Islands,9173
+15679,Gabon,5704
+15680,Thailand,5676
+15681,Barbados,16030
+15682,Netherlands,3379
+15683,Martinique,19758
+15684,Finland,3443
+15685,Wales,3864
+15686,Jamaica,3671
+15687,Nicaragua,15351
+15688,Bulgaria,3394
+15689,China,5598
+15690,Albania,3561
+15691,Tunisia,3670
+15692,Namibia,3573
+15693,England,3299
+15694,Kenya,8987
+15695,Algeria,3614
+15696,Ukraine,3699
+15697,Philippines,15234
+15698,Switzerland,3384
+15699,Chinese Taipei (Taiwan),15363
+15700,Yemen,15922
+15701,Spain,3375
+15702,Russia,3448
+15703,Afghanistan,3576
+15704,Poland,3442
+15705,North Korea,15457
+15706,Germany,3262
+15707,Denmark,3436
+15708,Myanmar,16423
+15709,Bahrain,7214
+15710,Tanzania,14666
+15711,Jordan,15737
+15712,Mongolia,15739
+15713,Burkina Faso,5872
+15714,Curaçao,32364
+15715,Romania,3447
+15716,Colombia,3816
+15717,Slovenia,3588
+15718,Morocco,3575
+15719,Uganda,13497
+15720,Egypt,3672
+15721,Ivory Coast,3591
+15722,Kyrgyzstan,3956
+15723,Nigeria,3444
+15724,Hungary,3468
+15725,Belgium,3382
+15726,Lebanon,3586
+15727,Oman,14165
+15728,Maldives,15456
+15729,Luxembourg,3580
+15730,Senegal,3499
+15731,Georgia,3669
+15732,Montenegro,11953
+15733,Armenia,6219
+15734,United States,3505
+15735,Mexico,6303
+15736,Peru,3584
+15737,Trinidad and Tobago,7149
+15738,Saint Kitts and Nevis,17760
+15739,Antigua and Barbuda,16028
+15740,Iraq,3560
+15742,Kuwait,3432
+15743,Saudi Arabia,3807
+15744,Iran,3582
+15745,Sweden,3557
