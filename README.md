@@ -15,3 +15,11 @@ We use python and [jupyter lab](https://github.com/jupyterlab/jupyterlab), also 
 #### Source of Data?
 
 Most data sources are kaggle-datasets about Football games and players, also [transfermarkt.de](https://www.transfermarkt.de/) is a really good source.
+
+### The prediction
+
+This is the result of the first prediction:
+
+![1](https://github.com/KingMus/world-cup-2018-prediction/blob/master/outputs/first_prediction/WM_AI_1.PNG)
+![2](https://github.com/KingMus/world-cup-2018-prediction/blob/master/outputs/first_prediction/WM_AI_2.PNG)
+![3](https://github.com/KingMus/world-cup-2018-prediction/blob/master/outputs/first_prediction/WM_AI_3.PNG)
