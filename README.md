@@ -18,7 +18,8 @@ Most data sources are kaggle-datasets about Football games and players, also [tr
 
 ### The prediction
 
-This is the result of the first prediction:
+This is the result of the first prediction: <br>
+(images created with [kicker.de](http://www.kicker.de/news/fussball/wm/spiele/weltmeisterschaft/2018/1/turnierrechner.html))
 
 ![1](https://github.com/KingMus/world-cup-2018-prediction/blob/master/outputs/first_prediction/WM_AI_1.PNG)
 ![2](https://github.com/KingMus/world-cup-2018-prediction/blob/master/outputs/first_prediction/WM_AI_2.PNG)
