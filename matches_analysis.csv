@@ -1,0 +1,65 @@
+,Home Team,Away Team,goals_home_pred,goals_away_pred,goals_home_actual,goals_away_actual,score
+0,Russia,Saudi Arabia,0,1,5,0,0
+1,Egypt,Uruguay,1,1,0,1,0
+2,Morocco,Iran,3,1,0,1,0
+3,Portugal,Spain,2,1,3,3,0
+4,France,Australia,2,1,2,1,4
+5,Argentina,Iceland,1,1,1,1,4
+6,Peru,Denmark,1,6,0,1,2
+7,Croatia,Nigeria,2,1,2,0,2
+8,Costa Rica,Serbia,2,1,0,1,0
+9,Germany,Mexico,6,1,0,1,0
+10,Brazil,Switzerland,3,1,1,1,0
+11,Sweden,Korea Republic,2,1,1,0,3
+12,Belgium,Panama,1,1,3,0,0
+13,Tunisia,England,2,1,1,2,0
+14,Colombia,Japan,1,1,1,2,0
+15,Poland,Senegal,1,1,1,2,0
+16,Russia,Egypt,2,1,3,1,2
+17,Portugal,Morocco,2,1,1,0,3
+18,Uruguay,Saudi Arabia,3,1,1,0,2
+19,Iran,Spain,1,1,0,1,0
+20,Denmark,Australia,1,1,1,1,4
+21,France,Peru,1,1,1,0,0
+22,Argentina,Croatia,1,6,0,3,2
+23,Brazil,Costa Rica,2,1,2,0,2
+24,Nigeria,Iceland,2,1,2,0,2
+25,Serbia,Switzerland,2,1,1,2,0
+26,Belgium,Tunisia,1,1,5,2,0
+27,Korea Republic,Mexico,1,2,1,2,4
+28,Germany,Sweden,2,1,2,1,4
+29,England,Panama,1,1,6,1,0
+30,Japan,Senegal,2,1,2,2,0
+31,Poland,Colombia,2,1,0,3,0
+32,Uruguay,Russia,2,1,3,0,2
+33,Saudi Arabia,Egypt,3,1,2,1,2
+34,Iran,Portugal,1,1,1,1,4
+35,Spain,Morocco,3,1,2,2,0
+36,Denmark,France,2,1,0,0,0
+37,Australia,Peru,1,1,0,2,0
+38,Nigeria,Argentina,3,1,1,2,0
+39,Iceland,Croatia,1,6,1,2,2
+40,Mexico,Sweden,1,1,0,3,0
+41,Korea Republic,Germany,1,2,2,0,0
+42,Serbia,Brazil,3,1,0,2,0
+43,Switzerland,Costa Rica,1,1,2,2,2
+44,Japan,Poland,2,1,0,1,0
+45,Senegal,Colombia,3,1,0,1,0
+46,Panama,Tunisia,2,1,1,2,0
+47,England,Belgium,2,1,0,1,0
+48,France,Argentina,1,2,4,3,0
+49,Uruguay,Portugal,1,2,2,1,0
+50,Spain,Russia,1,2,4,5,3
+51,Croatia,Denmark,0,1,4,3,0
+52,Brazil,Mexico,1,2,2,0,0
+53,Belgium,Japan,1,2,3,2,0
+54,Sweden,Switzerland,0,1,1,0,0
+55,Colombia,England,1,2,4,5,3
+56,Uruguay,France,1,2,0,2,2
+57,Brazil,Belgium,1,2,1,2,4
+58,Sweden,England,0,1,0,2,2
+59,Russia,Croatia,1,2,5,6,3
+60,France,Belgium,1,2,1,0,0
+61,Croatia,England,1,2,2,1,0
+62,Belgium,England,1,2,2,0,0
+63,France,Croatia,1,2,4,2,0
